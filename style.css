@@ -1,0 +1,16 @@
+body{
+text-align:center;
+}
+#album{
+height:500px;
+width:400px;
+border-bottom:3px solid #689F38; padding:2px;
+}
+#fp{
+font-weight:bold;
+font-size:30px
+}
+button{
+height:30px;
+width:100px;
+}
